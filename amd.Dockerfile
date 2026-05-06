@@ -1,4 +1,4 @@
-FROM rocm/pytorch:rocm7.0_ubuntu24.04_py3.12_pytorch_release_2.7.1
+FROM rocm/pytorch:rocm7.2.3_ubuntu24.04_py3.12_pytorch_release_2.10.0
 
 ENV TZ="Etc/UTC"
 
